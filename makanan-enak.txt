@@ -1,4 +1,5 @@
 == Makanan enak ==
 - yupi
 - miksu
-- ayam pa gembuss
+- mi goreng
+- makaroni neghe
