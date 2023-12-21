@@ -1,5 +1,5 @@
 == Makanan enak ==
-- yupi
 - miksu
+- waffle
+- apple pie
 - ayam pa gembuss
-- susu ultra
